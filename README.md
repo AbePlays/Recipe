@@ -3,8 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 <div align="center">
-  <img src="./home1.png" width="40%"/>
-  <img src="./home2.png" width="40%"/>
+  <img src="./home1.png" width="50%"/>
+  <img src="./home2.png" width="50%"/>
 </div>
 
 ## Available Scripts
