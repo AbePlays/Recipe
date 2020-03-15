@@ -1,7 +1,18 @@
+.calories {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: -10px;
+}
+
 .image {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.list {
+  margin: 0 20px 20px 20px;
 }
 
 .recipe {
@@ -14,4 +25,8 @@
   background: white;
   align-items: center;
   min-width: 40%;
+}
+
+.title {
+  margin: 10px 20px 10px 20px;
 }
